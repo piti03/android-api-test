@@ -2,4 +2,4 @@
 This application is about testing api 
 # view binding
 - at module app file add view binding to the buildfeatures
-  buildFeatures { view binding = true }
+buildFeatures { view binding = true }
